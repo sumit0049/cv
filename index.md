@@ -15,7 +15,7 @@ _Senior Software Engineer_
 
 Nov 2020 - Present
 
-Projects: [Protect4less](./https://protect4less.com)
+Projects: [Protect4less](https://protect4less.com)
 *   Leading the core development of the Protect4less.
 *   Optimized the flow of the Payment process which led to higher sales and a 40% increase in profitability.
 *   Automated the Offline process of Policy creation for the Partners,which lead to an increase in the number of partners and sales.
